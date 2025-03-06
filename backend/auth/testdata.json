@@ -1,0 +1,31 @@
+[
+    {
+        "user_name": "DrNziza",
+        "email": "drjohn@example.com",
+        "password": "securepassword",
+        "role": "doctor",
+        "specialty": "Cardiology",
+        "license_number": "LIC12345",
+        "experience_years": 10
+    },
+    {
+        "user_name": "JaneDoe",
+        "email": "janedoe@example.com",
+        "password": "securepassword",
+        "role": "patient",
+        "date_of_birth": "1990-05-10",
+        "gender": "female",
+        "insurance_number": "INS56789"
+      },
+      {
+        "user_name": "AdminUser",
+        "email": "admin@example.com",
+        "password": "securepassword",
+        "role": "admin",
+        "full_name": "John Admin"
+      }
+      
+]
+
+
+  
